@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Sacramento&family=Sansita+Swashed:wght@600&display=swap');
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #062C30;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Sansita Swashed', cursive;
+  text-shadow: 5px 0 #05595B;
+  font-size: 8rem;
+  color: #00C897;
+}
+
+p {
+  font-size: 2rem;
+  color: #05595B;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+.btn {
+  background-color: #085E7D;
+  font-family: 'Sacramento', cursive;
+  font-size: 2rem;
+  color: #C1F4C5;
+  padding: 0.5rem;
+  border: 0;
+}
+
+.btn:hover {
+  background-color: #03045E;
+  color: #00B4D8;
+}
+
+footer {
+  margin-top: 5%;
+  color: #05595B;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+footer:hover {
+  color: #EFFFFD;
+}
